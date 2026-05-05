@@ -2,7 +2,7 @@
 Nama: ZAMZAMI SATRIA TEGAR 
 NIM: F1D02320029
 
-Aplikasi Student Contact App merupakan sebuah aplikasi berbasis Android yang dirancang untuk memfasilitasi penyimpanan serta pengelolaan data kontak mahasiswa secara efektif dan efisien. Aplikasi ini memiliki antarmuka yang sederhana, intuitif, dan user-friendly, aplikasi ini bertujuan untuk mempermudah pengguna dalam mengelola informasi kontak mahasiswa tanpa memerlukan keterampilan teknis yang kompleks. Selain itu, sistem pengelolaan data yang terstruktur memungkinkan pengguna untuk mengakses informasi dengan cepat dan akurat, sehingga mendukung kebutuhan administrasi maupun komunikasi dalam lingkungan akademik.
+Aplikasi Student Contact App merupakan sebuah aplikasi berbasis Android yang dirancang untuk memfasilitasi penyimpanan serta pengelolaan data kontak mahasiswa secara efektif dan efisien. Aplikasi ini memiliki antarmuka yang sederhana, intuitif, dan user-friendly, aplikasi ini bertujuan untuk mempermudah pengguna dalam mengelola informasi kontak mahasiswa tanpa memerlukan keterampilan teknis yang kompleks.
 Aplikasi ini memiliki fitur yakni Halaman Login, Halaman Daftar Siswa, Halaman Catatan Siswa, Student Directory, Perubahan Data jadi sistem informasi, Halaman Edit Data informatika, Dialog Hapus Data, Data Berhasil Dihapus, Tambah Siswa, Data Berhasil Ditambahkan dan Halaman Profile
 
 <img width="738" height="1600" alt="WhatsApp Image 2026-05-05 at 11 53 46" src="https://github.com/user-attachments/assets/b7a6c75f-105d-4288-ad44-af459edb5db8" />
@@ -19,7 +19,7 @@ Aplikasi ini memiliki fitur yakni Halaman Login, Halaman Daftar Siswa, Halaman C
 
 
 **Databese**
-Aplikasi ini menggunakan SQLite Database sebagai metode utama dalam penyimpanan data. SQLite merupakan sistem manajemen basis data relasional yang bersifat ringan (lightweight) dan terintegrasi langsung pada perangkat Android, sehingga sangat sesuai untuk kebutuhan aplikasi mobile. Pemilihan SQLite didasarkan pada beberapa pertimbangan utama. Pertama, SQLite tidak memerlukan koneksi internet dalam proses operasionalnya, sehingga aplikasi tetap dapat digunakan secara optimal dalam kondisi offline. Kedua, ukurannya yang ringan menjadikannya tidak membebani kinerja perangkat, sehingga cocok diterapkan pada berbagai spesifikasi smartphone. Ketiga, implementasi SQLite di lingkungan Android Studio relatif mudah karena telah didukung secara native oleh sistem Android. Selain itu, data yang disimpan bersifat lokal di dalam perangkat pengguna, sehingga akses terhadap data menjadi lebih cepat dan responsif.
+Aplikasi ini menggunakan SQLite Database sebagai metode utama dalam penyimpanan data. SQLite merupakan sistem manajemen basis data relasional yang bersifat ringan (lightweight) dan terintegrasi langsung pada perangkat Android, sehingga sangat sesuai untuk kebutuhan aplikasi mobile. Pemilihan SQLite didasarkan pada beberapa pertimbangan utama. Pertama, SQLite tidak memerlukan koneksi internet dalam proses operasionalnya, sehingga aplikasi tetap dapat digunakan secara optimal dalam kondisi offline. Kedua, ukurannya yang ringan menjadikannya tidak membebani kinerja perangkat, sehingga cocok diterapkan pada berbagai spesifikasi smartphone. Ketiga, implementasi SQLite di Android Studio relatif mudah karena telah didukung secara native oleh sistem Android. Selain itu, data yang disimpan bersifat lokal di dalam perangkat pengguna, sehingga akses terhadap data menjadi lebih cepat dan responsif.
 
 **Kendala dan Solusi**
 
