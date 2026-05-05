@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentContactApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_student_directory">Student Directory</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_student_directory">Student Directory</string>
+</resources>
